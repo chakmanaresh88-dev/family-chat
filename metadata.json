@@ -1,0 +1,6 @@
+{
+  "name": "FamilyConnect",
+  "description": "Private family messaging app with secure chat, media sharing, calls, announcement boards, and family events calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

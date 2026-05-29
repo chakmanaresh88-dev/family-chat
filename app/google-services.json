@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981807329535",
+    "project_id": "family-chat-dcafa",
+    "storage_bucket": "family-chat-dcafa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981807329535:android:2c7cca0bfc9525f8f91cca",
+        "android_client_info": {
+          "package_name": "com.familychat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrwDounEraHa50o29vP7sp7sDgWEiD238"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
